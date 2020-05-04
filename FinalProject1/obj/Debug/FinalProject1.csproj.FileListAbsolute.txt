@@ -1,0 +1,12 @@
+C:\Users\purej\Desktop\c# course\Tech-Academy-C-Coding-Projects\FinalProject1\bin\Debug\FinalProject1.exe.config
+C:\Users\purej\Desktop\c# course\Tech-Academy-C-Coding-Projects\FinalProject1\bin\Debug\FinalProject1.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-C-Coding-Projects\FinalProject1\bin\Debug\FinalProject1.pdb
+C:\Users\purej\Desktop\c# course\Tech-Academy-C-Coding-Projects\FinalProject1\bin\Debug\EntityFramework.dll
+C:\Users\purej\Desktop\c# course\Tech-Academy-C-Coding-Projects\FinalProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\purej\Desktop\c# course\Tech-Academy-C-Coding-Projects\FinalProject1\bin\Debug\EntityFramework.xml
+C:\Users\purej\Desktop\c# course\Tech-Academy-C-Coding-Projects\FinalProject1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\purej\Desktop\c# course\Tech-Academy-C-Coding-Projects\FinalProject1\obj\Debug\FinalProject1.csprojAssemblyReference.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-C-Coding-Projects\FinalProject1\obj\Debug\FinalProject1.csproj.CoreCompileInputs.cache
+C:\Users\purej\Desktop\c# course\Tech-Academy-C-Coding-Projects\FinalProject1\obj\Debug\FinalProject1.csproj.CopyComplete
+C:\Users\purej\Desktop\c# course\Tech-Academy-C-Coding-Projects\FinalProject1\obj\Debug\FinalProject1.exe
+C:\Users\purej\Desktop\c# course\Tech-Academy-C-Coding-Projects\FinalProject1\obj\Debug\FinalProject1.pdb
